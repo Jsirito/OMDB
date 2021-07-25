@@ -1,2 +1,2 @@
 # OMDB
-![Alt Text](https://gifyu.com/image/O9bH)
+![Alt Text](demo/demoOMDB.gif)
